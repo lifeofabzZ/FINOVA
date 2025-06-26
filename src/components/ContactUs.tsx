@@ -4,36 +4,36 @@ import { Github, Linkedin } from 'lucide-react';
 const ContactUs = () => {
   const team = [
     {
-      name: 'Adrija A',
-      role: 'Frontend/Backend Developer',
-      github: 'adrija-ani',
-      githubUrl: 'https://github.com/adrija-ani',
-      linkedin: 'Adrija A',
-      linkedinUrl: 'https://linkedin.com/in/adrija-ani'
+      name: 'Abhijith M Nair',
+      role: ' Developer',
+      github: '',
+      githubUrl: 'https://github.com/lifeofabzZ',
+      linkedin: 'Abhijith M Nair',
+      linkedinUrl: 'www.linkedin.com/in/abhijith-m-nair10'
     },
     {
-      name: 'Adithyan S Pillai',
-      role: 'Backend/AI Developer',
-      github: 'XXOriginalXX',
-      githubUrl: 'https://github.com/XXOriginalXX',
-      linkedin: 'Adithyan S Pillai',
-      linkedinUrl: 'https://linkedin.com/in/xxoriginalxx'
+      name: 'A',
+      role: 'B',
+      github: 'X',
+      githubUrl: '',
+      linkedin: '',
+      linkedinUrl: ''
     },
     {
-      name: 'Thushar Vijay',
-      role: 'Blockchain/AI Developer',
-      github: 'thusharvijay',
-      githubUrl: 'https://github.com/thusharvijay',
-      linkedin: 'Thushar Vijay',
-      linkedinUrl: 'https://linkedin.com/in/thusharvijay'
+      name: '',
+      role: ' Developer',
+      github: 'i',
+      githubUrl: 'j',
+      linkedin: 'l',
+      linkedinUrl: 'kj'
     },
     {
-      name: 'S V Dhanya',
-      role: 'Frontend/Blockchain',
-      github: 'Ayna184',
-      githubUrl: 'https://github.com/Ayna184',
-      linkedin: 'Dhanya Vinod',
-      linkedinUrl: 'https://linkedin.com/in/dhanya-vinod'
+      name: 'h',
+      role: 'Frontend',
+      github: 'A',
+      githubUrl: 'h',
+      linkedin: 'Dhd',
+      linkedinUrl: 'k'
     }
   ];
 
